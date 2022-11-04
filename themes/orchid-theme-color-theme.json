@@ -11,6 +11,7 @@
         "statusBar.background": "#211f2a",
         "button.background": "#4a4563",
         "list.activeSelectionBackground": "#33363d",
+        "list.focusAndSelectionOutline": "#c16ebb"
 	},
 	"tokenColors": [
 		{

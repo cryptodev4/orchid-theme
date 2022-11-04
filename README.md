@@ -1,4 +1,4 @@
-# orchid-theme README
+# Orchid Theme
 
 ## Working with Markdown
 

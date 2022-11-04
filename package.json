@@ -1,0 +1,23 @@
+{
+  "name": "orchid-theme",
+  "displayName": "Orchid Theme",
+  "icon": "icon.png",
+  "publisher": "cryptodev369",
+  "description": "",
+  "version": "1.0.0",
+  "engines": {
+    "vscode": "^1.73.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "orchid-theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/orchid-theme-color-theme.json"
+      }
+    ]
+  }
+}

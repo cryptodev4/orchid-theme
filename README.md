@@ -4,7 +4,7 @@
 
 This is the unofficial Orchid Theme for VS Code.
 
-![alt text](https://imgur.com/u8pCQW3 "PHP file")
+[![php.png](https://i.postimg.cc/hGPHcyGQ/php.png)](https://postimg.cc/21MHxxhC)
 
 ## Supported Languages
 

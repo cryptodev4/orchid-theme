@@ -1,5 +1,5 @@
 {
-  "name": "Orchid Theme",
+  "name": "orchid-theme",
   "displayName": "Orchid Theme",
   "icon": "orchid.png",
   "publisher": "cryptodev369",
@@ -17,7 +17,7 @@
   "contributes": {
     "themes": [
       {
-        "label": "orchid-theme",
+        "label": "Orchid Theme",
         "uiTheme": "vs-dark",
         "path": "./themes/orchid-theme-color-theme.json"
       }

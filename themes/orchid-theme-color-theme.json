@@ -4,7 +4,7 @@
         "editor.background": "#312e3e",
         "editor.foreground": "#fff",
         "activityBarBadge.background": "#312e3e",
-        "sideBarTitle.foreground": "#fff",
+        "sideBarTitle.foreground": "#d2cdea",
         "sideBar.foreground": "#fff",
         "sideBar.background": "#211f2a",
         "activityBar.background": "#4a4563",
@@ -31,12 +31,16 @@
             }
         },
         {
-            "name": "comments",
+            "name": "comment",
             "scope": [
                 "comment.line.double-slash.php",
                 "comment.block.documentation.phpdoc.php",
                 "comment.block.documentation.js",
-                "comment.line.double-slash.js"
+                "comment.line.double-slash.js",
+                "comment.line.double-slash.rust",
+                "comment.line.number-sign.php",
+                "comment.line.double-dash.sql.sqlite",
+                "source.sql.sqlite",
             ],
             "settings": {
                 "foreground": "#8781a2",
@@ -46,8 +50,16 @@
             "name": "this global variables",
             "scope": [
                 "meta.class.body.php",
-                "variable.language.this.php",
-                "entity.other.attribute-name.class.css"
+                "variable.language.*.php",
+                "keyword.control.at-rule.media.css",
+                "support.type.property-name.php",
+                "support.type.property-name.json",
+                "support.type.property-name.css",
+                "variable.other.constant.js",
+                "variable.other.readwrite.js",
+                "variable.other.rust",
+                "variable.other.bare",
+                "variable.language.this.js"
             ],
             "settings": {
                 "foreground": "#ffd06b",
@@ -76,7 +88,32 @@
                 "keyword.control.flow.js",
                 "keyword.operator.assignment.js",
                 "punctuation.accessor.js",
-                "support.type.property-name.css"
+                "storage.type.js",
+                "entity.name.function.macro.rust",
+                "storage.type.rust",
+                "storage.modifier.mut.rust",
+                "source.css",
+                "keyword.other.type.php",
+                "keyword.operator.nullable-type.php",
+                "keyword.operator.logical.php",
+                "keyword.operator.assignment.equal.rust",
+                "keyword.control.rust",
+                "keyword.control.if.php",
+                "keyword.control.else.php",
+                "keyword.control.conditional.js",
+                "keyword.control.switch.php",
+                "keyword.control.case.php",
+                "keyword.control.break.php",
+                "keyword.control.default.php",
+                "keyword.control.while.php",
+                "keyword.control.do.php",
+                "keyword.control.for.php",
+                "keyword.control.foreach.php",
+                "variable.other.rust",
+                "keyword.other.sql.sqlite",
+                "keyword.operator.assignment.php",
+                "keyword.operator.comparison.php",
+                "keyword.operator.increment-decrement.php"
             ],
             "settings": {
                 "foreground": "#82d4f7",
@@ -87,6 +124,11 @@
             "scope": [
                 "entity.name.function.js",
                 "entity.name.function.php",
+                "keyword.other.fn.rust",
+                "entity.name.function.rust",
+                "entity.other.attribute-name.id.css",
+                "entity.other.attribute-name.class.css",
+                "entity.name.function.sql.sqlite"
             ],
             "settings": {
                 "foreground": "#cd82c7",
@@ -112,7 +154,12 @@
                 "string.quoted.single.js",
                 "string.quoted.double.js",
                 "punctuation.definition.template-expression.begin.js",
-                "punctuation.definition.template-expression.end.js"
+                "punctuation.definition.template-expression.end.js",
+                "string.quoted.single.css",
+                "string.quoted.double.css",
+                "string.quoted.single.json",
+                "string.quoted.double.json",
+                "string.quoted.double.rust",
             ],
             "settings": {
                 "foreground": "#4bef96",
@@ -129,7 +176,13 @@
                 "punctuation.separator.comma.js",
                 "meta.brace.square.js",
                 "punctuation.definition.block.js",
-                "punctuation.separator.key-value.css"
+                "punctuation.separator.key-value.css",
+                "punctuation.separator.dictionary.key-value.json",
+                "punctuation.separator.dictionary.pair.json",
+                "punctuation.semi.rust",
+                "keyword.operator.return-value.php",
+                "punctuation.terminator.statement.php",
+                "source.sql.sqlite"
             ],
             "settings": {
                 "foreground": "#d2cdea",
@@ -139,7 +192,9 @@
             "name": "constants",
             "scope": [
                 "constant.numeric.decimal.php",
-                "support.constant.property-value.css"
+                "support.constant.property-value.css",
+                "constant.numeric.decimal.js",
+                "constant.numeric.sql.sqlite"
             ],
             "settings": {
                 "foreground": "#b288ff",

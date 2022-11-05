@@ -8,7 +8,7 @@ This is the unofficial Orchid Theme for VS Code.
 
 ## Supported Languages
 
-HTML, CSS, JS, PHP, Rust, JSON
+HTML, CSS, JS, PHP, Rust, JSON, SQL
 
 ## Orchid Platform
 

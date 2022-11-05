@@ -4,9 +4,9 @@
   "icon": "orchid.png",
   "publisher": "cryptodev369",
   "description": "",
-  "version": "1.6.3",
+  "version": "1.6.4",
   "engines": {
-    "vscode": "^0.10.5"
+    "vscode": "^1.71"
   },
   "repository": {
     "url": "https://github.com/cryptodev4/orchid-theme"

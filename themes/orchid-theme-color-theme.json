@@ -25,6 +25,7 @@
                 "punctuation.section.array.begin.php",
                 "punctuation.section.array.end.php",
                 "keyword.operator.return-value.php",
+                "entity.name.tag.localname.xml"
             ],
             "settings": {
                 "foreground": "#fff",
@@ -41,6 +42,11 @@
                 "comment.line.number-sign.php",
                 "comment.line.double-dash.sql.sqlite",
                 "source.sql.sqlite",
+                "comment.block.php",
+                "comment.block.blade",
+                "punctuation.definition.comment.begin.blade",
+                "punctuation.definition.comment.end.blade",
+                "comment.block.js"
             ],
             "settings": {
                 "foreground": "#8781a2",
@@ -53,7 +59,6 @@
                 "variable.language.*.php",
                 "keyword.control.at-rule.media.css",
                 "support.type.property-name.php",
-                "support.type.property-name.json",
                 "support.type.property-name.css",
                 "variable.other.constant.js",
                 "variable.other.readwrite.js",
@@ -113,7 +118,17 @@
                 "keyword.other.sql.sqlite",
                 "keyword.operator.assignment.php",
                 "keyword.operator.comparison.php",
-                "keyword.operator.increment-decrement.php"
+                "keyword.operator.increment-decrement.php",
+                "log.date",
+                "keyword.other.definition.ini",
+                "support.type.property-name.json",
+                "variable.other.env",
+                "entity.name.tag.yaml",
+                "punctuation.definition.tag.xml",
+                "meta.tag.xml",
+                "entity.other.attribute-name.localname.xml",
+                "entity.other.attribute-name.xml",
+                "meta.tag.preprocessor.xml"
             ],
             "settings": {
                 "foreground": "#82d4f7",
@@ -128,7 +143,10 @@
                 "entity.name.function.rust",
                 "entity.other.attribute-name.id.css",
                 "entity.other.attribute-name.class.css",
-                "entity.name.function.sql.sqlite"
+                "entity.name.function.sql.sqlite",
+                "punctuation.section.embedded.begin.php",
+                "punctuation.section.embedded.end.php",
+                "keyword.blade",
             ],
             "settings": {
                 "foreground": "#cd82c7",
@@ -160,6 +178,15 @@
                 "string.quoted.single.json",
                 "string.quoted.double.json",
                 "string.quoted.double.rust",
+                "log.constant",
+                "string.quoted.double.ini",
+                "source.ini",
+                "source.env",
+                "string.unquoted.plain.out.yaml",
+                "punctuation.definition.string.begin.xml",
+                "punctuation.definition.string.end.xml",
+                "string.quoted.single.xml",
+                "string.quoted.double.xml"
             ],
             "settings": {
                 "foreground": "#4bef96",
@@ -182,7 +209,10 @@
                 "punctuation.semi.rust",
                 "keyword.operator.return-value.php",
                 "punctuation.terminator.statement.php",
-                "source.sql.sqlite"
+                "source.sql.sqlite",
+                "text.log",
+                "punctuation.definition.comment.begin.blade",
+                "punctuation.definition.comment.end.blade",
             ],
             "settings": {
                 "foreground": "#d2cdea",
@@ -194,7 +224,9 @@
                 "constant.numeric.decimal.php",
                 "support.constant.property-value.css",
                 "constant.numeric.decimal.js",
-                "constant.numeric.sql.sqlite"
+                "constant.numeric.sql.sqlite",
+                "constant.numeric.integer.yaml",
+                "constant.language.boolean.yaml"
             ],
             "settings": {
                 "foreground": "#b288ff",

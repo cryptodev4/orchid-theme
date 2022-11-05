@@ -8,10 +8,19 @@ This is the unofficial Orchid Theme for VS Code.
 
 ## Supported Languages
 
-HTML, CSS, JS, PHP, Rust, JSON, SQL
+- HTML 
+- CSS
+- JS
+- PHP
+- Rust
+- JSON
+- SQL
+- XML
+- YAML
+- Log
 
 ## Orchid Platform
 
-A free Laravel package that abstracts standard business logic and enables code-driven, rapid development of back-office applications like admin panels and dashboards.
+If you want to know Orchid Platform, you can find more information in the link below.
 
 [Orchid Software](https://orchid.software/)

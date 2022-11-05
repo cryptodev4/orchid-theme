@@ -4,7 +4,7 @@
   "icon": "orchid.png",
   "publisher": "cryptodev369",
   "description": "",
-  "version": "1.6.2",
+  "version": "1.6.3",
   "engines": {
     "vscode": "^0.10.5"
   },

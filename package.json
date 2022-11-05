@@ -1,12 +1,12 @@
 {
   "name": "orchid-theme",
   "displayName": "Orchid Theme",
-  "icon": "icon.png",
+  "icon": "orchid.png",
   "publisher": "cryptodev369",
   "description": "",
-  "version": "1.6.1",
+  "version": "1.6.2",
   "engines": {
-    "vscode": "^1.73.0"
+    "vscode": "^0.10.5"
   },
   "repository": {
     "url": "https://github.com/cryptodev4/orchid-theme"

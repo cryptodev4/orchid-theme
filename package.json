@@ -4,7 +4,7 @@
   "icon": "orchid.png",
   "publisher": "cryptodev369",
   "description": "This is the Unofficial Orchid Theme for VS Code",
-  "version": "1.7.0",
+  "version": "1.7.3",
   "engines": {
     "vscode": "^1.71.2"
   },

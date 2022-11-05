@@ -7,11 +7,14 @@
         "sideBarTitle.foreground": "#d2cdea",
         "sideBar.foreground": "#fff",
         "sideBar.background": "#211f2a",
-        "activityBar.background": "#4a4563",
+        "activityBar.background": "#312e3e",
         "statusBar.background": "#211f2a",
         "button.background": "#4a4563",
-        "list.activeSelectionBackground": "#33363d",
-        "list.focusAndSelectionOutline": "#c16ebb"
+        "list.activeSelectionBackground": "#312e3e",
+        "list.focusAndSelectionOutline": "#c16ebb",
+        "sideBarSectionHeader.background": "#4a4563",
+        "focusBorder": "#c16ebb",
+        "list.hoverBackground": "#312e3e",
     },
     "tokenColors": [
         {

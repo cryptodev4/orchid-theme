@@ -6,7 +6,7 @@
   "description": "",
   "version": "1.6.4",
   "engines": {
-    "vscode": "^1.71"
+    "vscode": "^1.71.2"
   },
   "repository": {
     "url": "https://github.com/cryptodev4/orchid-theme"

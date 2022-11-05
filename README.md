@@ -1,8 +1,10 @@
 # Orchid Theme for VS Code
 
-## Working with Markdown
+## Introduction
 
 This is the unofficial Orchid Theme for VS Code.
+
+![alt text](https://imgur.com/u8pCQW3 "PHP file")
 
 ## Orchid Platform
 

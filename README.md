@@ -4,7 +4,7 @@
 
 This is the unofficial Orchid Theme for VS Code.
 
-[![php.png](https://i.postimg.cc/hGPHcyGQ/php.png)](https://postimg.cc/21MHxxhC)
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/QSMn1Lf"  ><a href="//imgur.com/a/QSMn1Lf">Orchid Theme</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 ## Supported Languages
 

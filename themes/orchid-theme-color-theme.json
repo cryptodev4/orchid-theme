@@ -3,12 +3,12 @@
     "colors": {
         "editor.background": "#312e3e",
         "editor.foreground": "#fff",
-        "activityBarBadge.background": "#312e3e",
         "sideBarTitle.foreground": "#d2cdea",
         "sideBar.foreground": "#fff",
         "sideBar.background": "#211f2a",
-        "activityBar.background": "#312e3e",
         "statusBar.background": "#211f2a",
+        "activityBar.background": "#312e3e",
+        "activityBarBadge.background": "#914680",
         "button.background": "#4a4563",
         "list.activeSelectionBackground": "#312e3e",
         "list.focusAndSelectionOutline": "#c16ebb",
@@ -17,8 +17,16 @@
         "list.hoverBackground": "#312e3e",
         "list.warningForeground": "#ffd06b",
         "list.inactiveSelectionBackground": "#312e3e",
-        "scrollbar.shadow": "#a4a7ae",
-        "scrollbarSlider.background": "#4a4563"
+        "scrollbarSlider.background": "#4a4563",
+        "gitDecoration.untrackedResourceForeground": "#ca72b7",
+        "gitDecoration.modifiedResourceForeground": "#20c997",
+        "gitDecoration.deletedResourceForeground": "#ca72b7",
+        "gitDecoration.ignoredResourceForeground": "#ca72b7",
+        "gitDecoration.renamedResourceForeground": "#20c997",
+        "gitDecoration.stageDeletedResourceForeground": "#ca72b7",
+        "gitDecoration.stageModifiedResourceForeground": "#20c997",
+        "gitDecoration.submoduleResourceForeground": "#ca72b7",
+        "badge.background": "#914680",
     },
     "tokenColors": [
         {

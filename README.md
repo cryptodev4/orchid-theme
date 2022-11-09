@@ -2,9 +2,9 @@
 
 ## Introduction
 
-This is the unofficial Orchid Theme for VS Code.
+This is the Unofficial Orchid Theme for VS Code.
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/QSMn1Lf"  ><a href="//imgur.com/a/QSMn1Lf">Orchid Theme</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+<img src="https://imgur.com/oVQzeIy.gif" />
 
 ## Supported Languages
 
@@ -18,9 +18,15 @@ This is the unofficial Orchid Theme for VS Code.
 - XML
 - YAML
 - Log
+- Ruby
 
 ## Orchid Platform
 
-If you want to know Orchid Platform, you can find more information in the link below.
+If you want to know about Orchid Platform, you can find more information in the links below.
 
-[Orchid Software](https://orchid.software/)
+[Orchid Platform](https://orchid.software/)
+
+[Orchid CRUD](https://orchid.software/en/docs/packages/crud/)
+
+[Orchid Fortify](https://github.com/orchidsoftware/fortify)
+

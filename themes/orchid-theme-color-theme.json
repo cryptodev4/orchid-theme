@@ -15,6 +15,10 @@
         "sideBarSectionHeader.background": "#4a4563",
         "focusBorder": "#c16ebb",
         "list.hoverBackground": "#312e3e",
+        "list.warningForeground": "#ffd06b",
+        "list.inactiveSelectionBackground": "#312e3e",
+        "scrollbar.shadow": "#a4a7ae",
+        "scrollbarSlider.background": "#4a4563"
     },
     "tokenColors": [
         {
@@ -49,7 +53,8 @@
                 "comment.block.blade",
                 "punctuation.definition.comment.begin.blade",
                 "punctuation.definition.comment.end.blade",
-                "comment.block.js"
+                "comment.block.js",
+                "comment.line.number-sign.ruby"
             ],
             "settings": {
                 "foreground": "#8781a2",
@@ -131,7 +136,8 @@
                 "meta.tag.xml",
                 "entity.other.attribute-name.localname.xml",
                 "entity.other.attribute-name.xml",
-                "meta.tag.preprocessor.xml"
+                "meta.tag.preprocessor.xml",
+                "keyword.operator.comparison.ruby"
             ],
             "settings": {
                 "foreground": "#82d4f7",
@@ -189,7 +195,8 @@
                 "punctuation.definition.string.begin.xml",
                 "punctuation.definition.string.end.xml",
                 "string.quoted.single.xml",
-                "string.quoted.double.xml"
+                "string.quoted.double.xml",
+                "variable.other.constant.ruby"
             ],
             "settings": {
                 "foreground": "#4bef96",
